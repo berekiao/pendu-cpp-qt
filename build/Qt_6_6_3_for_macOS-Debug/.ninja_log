@@ -1,0 +1,14 @@
+# ninja log v6
+6	691	1749034083818642636	Pendu_autogen/timestamp	52df6042e90a4f4b
+6	691	1749034083818642636	Pendu_autogen/mocs_compilation.cpp	52df6042e90a4f4b
+6	691	1749034083818642636	/Users/aaa/Desktop/Pendu/build/Qt_6_6_3_for_macOS-Debug/Pendu_autogen/timestamp	52df6042e90a4f4b
+6	691	1749034083818642636	/Users/aaa/Desktop/Pendu/build/Qt_6_6_3_for_macOS-Debug/Pendu_autogen/mocs_compilation.cpp	52df6042e90a4f4b
+698	3536	1749034083857397083	CMakeFiles/Pendu.dir/main.cpp.o	5c66c2b91d382331
+698	3550	1749034083856972556	CMakeFiles/Pendu.dir/Pendu_autogen/mocs_compilation.cpp.o	5623dfb1b2ed204f
+22	844	1749034636932991000	Pendu_autogen/timestamp	52df6042e90a4f4b
+22	844	1749034636932991000	Pendu_autogen/mocs_compilation.cpp	52df6042e90a4f4b
+22	844	1749034636932991000	/Users/aaa/Desktop/Pendu/build/Qt_6_6_3_for_macOS-Debug/Pendu_autogen/timestamp	52df6042e90a4f4b
+22	844	1749034636932991000	/Users/aaa/Desktop/Pendu/build/Qt_6_6_3_for_macOS-Debug/Pendu_autogen/mocs_compilation.cpp	52df6042e90a4f4b
+845	3690	1749034636968003716	CMakeFiles/Pendu.dir/main.cpp.o	5c66c2b91d382331
+845	3808	1749034636967572513	CMakeFiles/Pendu.dir/Pendu_autogen/mocs_compilation.cpp.o	5623dfb1b2ed204f
+846	3813	1749034636968354062	CMakeFiles/Pendu.dir/mainwindow.cpp.o	c46ea2244c6d5e13

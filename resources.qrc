@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>images/Pendu-0.png</file>
+        <file>images/Pendu-1.png</file>
+        <file>images/Pendu-2.png</file>
+        <file>images/Pendu-3.png</file>
+        <file>images/Pendu-4.png</file>
+        <file>images/Pendu-5.png</file>
+        <file>images/Pendu-6.png</file>
+        <file>dictionnaire.txt</file>
+    </qresource>
+</RCC>
